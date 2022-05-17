@@ -290,7 +290,7 @@ a {
   position: relative;
   height: 692px;
   background-color: #6c72cb;
-  background: url(/img/frame_15.jpg);
+  background: url(img/frame_15.jpg);
   background-size: 100% 100%;
 }
 
@@ -470,7 +470,7 @@ a {
 /* Fourth styles start */
 
 .fourth__block {
-  background: url(/img/frame_4.png) no-repeat;
+  background: url(img/frame_4.png) no-repeat;
   background-size: 100% 337px;
   background-position: right bottom;
 }
